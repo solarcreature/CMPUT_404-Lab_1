@@ -1,0 +1,2 @@
+# CMPUT_404-Lab_1
+Lab 1 for CMPUT 404
